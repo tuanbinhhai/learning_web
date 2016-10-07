@@ -1,0 +1,15 @@
+1.Khác nhau giữa UI và UX?
+- UI (user interface): la giao dien nguoi dung
+- UX (User experience): trai nghiem nguoi dung
+
+2.Tác dụng của doctype?
+- Chi cho trinh duyet biet duoc phien ban ngon ngu danh dau ban dang su dung
+- <!DOCTYPE HTML>: ko khai bao chi het, nhu the nay thi mac dinh la HTML5
+
+3.Khác nhau giữa HTML và XHTML là gì?
+- xHTML chẳng qua chính là HTML mà thôi. Có điều nó tuân theo các quy tắc viết XML. Để so giữa xHTML và HTML ta có thể ví như 1 cái là văn phong nghiêm ngặt ở trường học, câu cú phải chuẩn xác, và 1 cái là văn nói ở ngoài đời, nói sao cũng được miễn người kia hiểu.
+
+4.Khác nhau giữa cookie, sessionStorage và localStorage.
+- sessionStorage hoạt động giống như localStorage ngoại trừ việc nó chỉ lưu trữ dữ liệu trên một phiên làm việc. Dữ liệu sẽ bị xóa khi người dùng đóng cửa sổ trình duyệt.
+
+- http://love4all1080.blogspot.com/2009/02/phan-biet-giua-cookie-va-session.html
